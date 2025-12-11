@@ -2,7 +2,7 @@
 
 
 Order received: #1 -> Cheese Cake + Cream + Skittles | Price: $15.0 <br>
-[CustomerDashboard - nada] Order ready -> #1: Cheese Cake + Cream + Skittles <br?
+[CustomerDashboard - nada] Order ready -> #1: Cheese Cake + Cream + Skittles <br>
 [CustomerDashboard - duha] Order ready -> #1: Cheese Cake + Cream + Skittles <br>
 [ManagerDashboard] Sold summary:
   CheeseCake -> 1
